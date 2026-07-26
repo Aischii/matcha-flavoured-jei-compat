@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "matchajei",
+  "version": "${version}",
+  "name": "Matcha Flavoured JEI Compat",
+  "description": "Makes JEI show the Matcha Flavoured datapack's costumed items (vanilla items reskinned via item_model / item_name components) and their recipes.",
+  "authors": [
+    "kixpanganiban"
+  ],
+  "contact": {
+    "homepage": "https://github.com/kixpanganiban/matcha-flavoured-jei-compat",
+    "sources": "https://github.com/kixpanganiban/matcha-flavoured-jei-compat",
+    "issues": "https://github.com/kixpanganiban/matcha-flavoured-jei-compat/issues"
+  },
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "jei_mod_plugin": [
+      "com.matcha.jei.MatchaJeiPlugin"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.2",
+    "jei": "*"
+  }
+}

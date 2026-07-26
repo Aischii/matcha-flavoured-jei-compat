@@ -1,0 +1,1352 @@
+{
+ "base_items": [
+  "minecraft:baked_potato",
+  "minecraft:bread",
+  "minecraft:chainmail_boots",
+  "minecraft:chainmail_chestplate",
+  "minecraft:chainmail_helmet",
+  "minecraft:chainmail_leggings",
+  "minecraft:chicken_spawn_egg",
+  "minecraft:compass",
+  "minecraft:cooked_beef",
+  "minecraft:cooked_chicken",
+  "minecraft:cooked_cod",
+  "minecraft:cooked_mutton",
+  "minecraft:cooked_porkchop",
+  "minecraft:cooked_rabbit",
+  "minecraft:cooked_salmon",
+  "minecraft:copper_axe",
+  "minecraft:copper_boots",
+  "minecraft:copper_chestplate",
+  "minecraft:copper_helmet",
+  "minecraft:copper_hoe",
+  "minecraft:copper_leggings",
+  "minecraft:copper_pickaxe",
+  "minecraft:copper_shovel",
+  "minecraft:copper_sword",
+  "minecraft:diamond_axe",
+  "minecraft:diamond_boots",
+  "minecraft:diamond_chestplate",
+  "minecraft:diamond_helmet",
+  "minecraft:diamond_hoe",
+  "minecraft:diamond_leggings",
+  "minecraft:elytra",
+  "minecraft:enchanted_book",
+  "minecraft:flint_and_steel",
+  "minecraft:golden_axe",
+  "minecraft:golden_boots",
+  "minecraft:golden_chestplate",
+  "minecraft:golden_helmet",
+  "minecraft:golden_hoe",
+  "minecraft:golden_leggings",
+  "minecraft:golden_pickaxe",
+  "minecraft:golden_shovel",
+  "minecraft:golden_spear",
+  "minecraft:golden_sword",
+  "minecraft:iron_axe",
+  "minecraft:iron_boots",
+  "minecraft:iron_chestplate",
+  "minecraft:iron_helmet",
+  "minecraft:iron_hoe",
+  "minecraft:iron_leggings",
+  "minecraft:iron_shovel",
+  "minecraft:item_frame",
+  "minecraft:leather_boots",
+  "minecraft:leather_chestplate",
+  "minecraft:leather_helmet",
+  "minecraft:leather_leggings",
+  "minecraft:music_disc_11",
+  "minecraft:music_disc_cat",
+  "minecraft:netherite_axe",
+  "minecraft:netherite_boots",
+  "minecraft:netherite_chestplate",
+  "minecraft:netherite_helmet",
+  "minecraft:netherite_hoe",
+  "minecraft:netherite_leggings",
+  "minecraft:netherite_pickaxe",
+  "minecraft:netherite_shovel",
+  "minecraft:netherite_spear",
+  "minecraft:netherite_sword",
+  "minecraft:poisonous_potato",
+  "minecraft:pumpkin_pie",
+  "minecraft:rabbit_stew",
+  "minecraft:shears",
+  "minecraft:shield",
+  "minecraft:splash_potion",
+  "minecraft:stone_axe",
+  "minecraft:stone_hoe",
+  "minecraft:stone_pickaxe",
+  "minecraft:stone_shovel",
+  "minecraft:stone_spear",
+  "minecraft:stone_sword",
+  "minecraft:wooden_pickaxe"
+ ],
+ "variants": [
+  {
+   "base": "minecraft:enchanted_book",
+   "model": "minecraft:blessing_demeter",
+   "name": "Blessing",
+   "name_key": "item.kleispack.blessing"
+  },
+  {
+   "base": "minecraft:enchanted_book",
+   "model": "minecraft:blessing_aeolus",
+   "name": "Blessing",
+   "name_key": "item.kleispack.blessing"
+  },
+  {
+   "base": "minecraft:enchanted_book",
+   "model": "minecraft:blessing_arachnae",
+   "name": "Blessing",
+   "name_key": "item.kleispack.blessing"
+  },
+  {
+   "base": "minecraft:enchanted_book",
+   "model": "minecraft:blessing_lu_ban",
+   "name": "Blessing",
+   "name_key": "item.kleispack.blessing"
+  },
+  {
+   "base": "minecraft:enchanted_book",
+   "model": "minecraft:blessing_yamm",
+   "name": "Blessing",
+   "name_key": "item.kleispack.blessing"
+  },
+  {
+   "base": "minecraft:enchanted_book",
+   "model": "minecraft:blessing_god_king",
+   "name": "Blessing",
+   "name_key": "item.kleispack.blessing"
+  },
+  {
+   "base": "minecraft:enchanted_book",
+   "model": "minecraft:blessing_will",
+   "name": "Blessing",
+   "name_key": "item.kleispack.blessing"
+  },
+  {
+   "base": "minecraft:enchanted_book",
+   "model": "minecraft:blessing_prometheus",
+   "name": "Blessing",
+   "name_key": "item.kleispack.blessing"
+  },
+  {
+   "base": "minecraft:enchanted_book",
+   "model": "minecraft:blessing_glaucus",
+   "name": "Blessing",
+   "name_key": "item.kleispack.blessing"
+  },
+  {
+   "base": "minecraft:enchanted_book",
+   "model": "minecraft:blessing_talos",
+   "name": "Blessing",
+   "name_key": "item.kleispack.blessing"
+  },
+  {
+   "base": "minecraft:enchanted_book",
+   "model": "minecraft:blessing_daedalus",
+   "name": "Blessing",
+   "name_key": "item.kleispack.blessing"
+  },
+  {
+   "base": "minecraft:enchanted_book",
+   "model": "minecraft:blessing_yama",
+   "name": "Blessing",
+   "name_key": "item.kleispack.blessing"
+  },
+  {
+   "base": "minecraft:enchanted_book",
+   "model": "minecraft:blessing_icarus",
+   "name": "Blessing",
+   "name_key": "item.kleispack.blessing"
+  },
+  {
+   "base": "minecraft:enchanted_book",
+   "model": "minecraft:blessing_ares",
+   "name": "Blessing",
+   "name_key": "item.kleispack.blessing"
+  },
+  {
+   "base": "minecraft:enchanted_book",
+   "model": "minecraft:blessing_warding",
+   "name": "Blessing",
+   "name_key": "item.kleispack.blessing"
+  },
+  {
+   "base": "minecraft:enchanted_book",
+   "model": "minecraft:blessing_apollo",
+   "name": "Blessing",
+   "name_key": "item.kleispack.blessing"
+  },
+  {
+   "base": "minecraft:enchanted_book",
+   "model": "minecraft:blessing_hyacinthus",
+   "name": "Blessing",
+   "name_key": "item.kleispack.blessing"
+  },
+  {
+   "base": "minecraft:enchanted_book",
+   "model": "minecraft:blessing_cronus",
+   "name": "Blessing",
+   "name_key": "item.kleispack.blessing"
+  },
+  {
+   "base": "minecraft:enchanted_book",
+   "model": "minecraft:blessing_artemis",
+   "name": "Blessing",
+   "name_key": "item.kleispack.blessing"
+  },
+  {
+   "base": "minecraft:enchanted_book",
+   "model": "minecraft:blessing_paris",
+   "name": "Blessing",
+   "name_key": "item.kleispack.blessing"
+  },
+  {
+   "base": "minecraft:enchanted_book",
+   "model": "minecraft:blessing_clement",
+   "name": "Blessing",
+   "name_key": "item.kleispack.blessing"
+  },
+  {
+   "base": "minecraft:enchanted_book",
+   "model": "minecraft:blessing_eros",
+   "name": "Blessing",
+   "name_key": "item.kleispack.blessing"
+  },
+  {
+   "base": "minecraft:music_disc_cat",
+   "model": "minecraft:music_disc_labyrinthine",
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:netherite_spear",
+   "model": null,
+   "name": "Adamant Spear",
+   "name_key": "item.minecraft.netherite_spear"
+  },
+  {
+   "base": "minecraft:copper_helmet",
+   "model": "minecraft:amber_earrings",
+   "name": "Amber Earrings",
+   "name_key": null
+  },
+  {
+   "base": "minecraft:netherite_shovel",
+   "model": null,
+   "name": "Adamant Shovel",
+   "name_key": "item.minecraft.netherite_shovel"
+  },
+  {
+   "base": "minecraft:stone_axe",
+   "model": "minecraft:shakudo_dolabra",
+   "name": "Palatinate Dolabra",
+   "name_key": "item.kleispack.shakudo_dolabra"
+  },
+  {
+   "base": "minecraft:stone_hoe",
+   "model": "minecraft:shakudo_mattock",
+   "name": "Palatinate Mattock",
+   "name_key": "item.kleispack.shakudo_mattock"
+  },
+  {
+   "base": "minecraft:stone_sword",
+   "model": "minecraft:steel_sword",
+   "name": "Steel Sword",
+   "name_key": "item.kleispack.steel_sword"
+  },
+  {
+   "base": "minecraft:netherite_chestplate",
+   "model": null,
+   "name": "Adamant Chestplate",
+   "name_key": "item.minecraft.netherite_chestplate"
+  },
+  {
+   "base": "minecraft:shield",
+   "model": null,
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:leather_boots",
+   "model": null,
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:stone_sword",
+   "model": "minecraft:bronze_sword",
+   "name": "Bronze Sword",
+   "name_key": "item.kleispack.bronze_sword"
+  },
+  {
+   "base": "minecraft:stone_sword",
+   "model": "minecraft:palatinate_sword",
+   "name": "Palatinate Sword",
+   "name_key": "item.kleispack.shakudo_sword"
+  },
+  {
+   "base": "minecraft:stone_pickaxe",
+   "model": "minecraft:shakudo_pickaxe",
+   "name": "Palatinate Pickaxe",
+   "name_key": "item.kleispack.shakudo_pickaxe"
+  },
+  {
+   "base": "minecraft:iron_chestplate",
+   "model": "minecraft:steel_chestplate",
+   "name": "Steel Chestplate",
+   "name_key": "item.kleispack.steel_chestplate"
+  },
+  {
+   "base": "minecraft:copper_helmet",
+   "model": "minecraft:bronze_helmet",
+   "name": "Bronze Helmet",
+   "name_key": "item.kleispack.bronze_helmet"
+  },
+  {
+   "base": "minecraft:stone_shovel",
+   "model": "minecraft:shakudo_shovel",
+   "name": "Palatinate Shovel",
+   "name_key": "item.kleispack.shakudo_shovel"
+  },
+  {
+   "base": "minecraft:stone_shovel",
+   "model": "minecraft:steel_shovel",
+   "name": "Steel Shovel",
+   "name_key": "item.kleispack.steel_shovel"
+  },
+  {
+   "base": "minecraft:diamond_helmet",
+   "model": "minecraft:electrum_helmet",
+   "name": "Electrum Helmet",
+   "name_key": "item.kleispack.electrum_helmet"
+  },
+  {
+   "base": "minecraft:netherite_boots",
+   "model": null,
+   "name": "Adamant Boots",
+   "name_key": "item.minecraft.netherite_boots"
+  },
+  {
+   "base": "minecraft:diamond_chestplate",
+   "model": "minecraft:electrum_chestplate",
+   "name": "Electrum Chestplate",
+   "name_key": "item.kleispack.electrum_chestplate"
+  },
+  {
+   "base": "minecraft:iron_helmet",
+   "model": "minecraft:steel_helmet",
+   "name": "Steel Helmet",
+   "name_key": "item.kleispack.steel_helmet"
+  },
+  {
+   "base": "minecraft:stone_shovel",
+   "model": "minecraft:electrum_shovel",
+   "name": "Electrum Shovel",
+   "name_key": "item.kleispack.electrum_shovel"
+  },
+  {
+   "base": "minecraft:netherite_axe",
+   "model": null,
+   "name": "Adamant Axe",
+   "name_key": "item.minecraft.netherite_axe"
+  },
+  {
+   "base": "minecraft:diamond_boots",
+   "model": "minecraft:electrum_boots",
+   "name": "Electrum Boots",
+   "name_key": "item.kleispack.electrum_boots"
+  },
+  {
+   "base": "minecraft:copper_helmet",
+   "model": "minecraft:shakudo_helmet",
+   "name": "Palatinate Helmet",
+   "name_key": "item.kleispack.shakudo_helmet"
+  },
+  {
+   "base": "minecraft:netherite_leggings",
+   "model": null,
+   "name": "Adamant Leggings",
+   "name_key": "item.minecraft.netherite_leggings"
+  },
+  {
+   "base": "minecraft:netherite_hoe",
+   "model": null,
+   "name": "Adamant Hoe",
+   "name_key": "item.minecraft.netherite_hoe"
+  },
+  {
+   "base": "minecraft:iron_leggings",
+   "model": "minecraft:steel_leggings",
+   "name": "Steel Leggings",
+   "name_key": "item.kleispack.steel_leggings"
+  },
+  {
+   "base": "minecraft:diamond_leggings",
+   "model": "minecraft:electrum_leggings",
+   "name": "Electrum Leggings",
+   "name_key": "item.kleispack.electrum_leggings"
+  },
+  {
+   "base": "minecraft:stone_shovel",
+   "model": "minecraft:bronze_shovel",
+   "name": "Bronze Shovel",
+   "name_key": "item.kleispack.bronze_shovel"
+  },
+  {
+   "base": "minecraft:copper_leggings",
+   "model": "minecraft:bronze_leggings",
+   "name": "Bronze Leggings",
+   "name_key": "item.kleispack.bronze_leggings"
+  },
+  {
+   "base": "minecraft:shears",
+   "model": "minecraft:steel_shears",
+   "name": "Steel Shears",
+   "name_key": "item.kleispack.steel_shears"
+  },
+  {
+   "base": "minecraft:diamond_axe",
+   "model": "minecraft:electrum_axe",
+   "name": "Electrum Axe",
+   "name_key": "item.kleispack.electrum_axe"
+  },
+  {
+   "base": "minecraft:stone_hoe",
+   "model": "minecraft:electrum_hoe",
+   "name": "Electrum Hoe",
+   "name_key": "item.kleispack.electrum_hoe"
+  },
+  {
+   "base": "minecraft:copper_leggings",
+   "model": "minecraft:shakudo_leggings",
+   "name": "Palatinate Leggings",
+   "name_key": "item.kleispack.shakudo_leggings"
+  },
+  {
+   "base": "minecraft:netherite_helmet",
+   "model": null,
+   "name": "Adamant Helmet",
+   "name_key": "item.minecraft.netherite_helmet"
+  },
+  {
+   "base": "minecraft:stone_hoe",
+   "model": "minecraft:steel_hoe",
+   "name": "Steel Hoe",
+   "name_key": "item.kleispack.steel_hoe"
+  },
+  {
+   "base": "minecraft:stone_axe",
+   "model": "minecraft:steel_axe",
+   "name": "Steel Axe",
+   "name_key": "item.kleispack.steel_axe"
+  },
+  {
+   "base": "minecraft:stone_spear",
+   "model": "minecraft:electrum_spear",
+   "name": "Electrum Spear",
+   "name_key": "item.kleispack.electrum_spear"
+  },
+  {
+   "base": "minecraft:stone_hoe",
+   "model": "minecraft:shakudo_hoe",
+   "name": "Palatinate Hoe",
+   "name_key": "item.kleispack.shakudo_hoe"
+  },
+  {
+   "base": "minecraft:stone_sword",
+   "model": "minecraft:electrum_sword",
+   "name": "Electrum Sword",
+   "name_key": "item.kleispack.electrum_sword"
+  },
+  {
+   "base": "minecraft:stone_axe",
+   "model": "minecraft:shakudo_axe",
+   "name": "Palatinate Axe",
+   "name_key": "item.kleispack.shakudo_axe"
+  },
+  {
+   "base": "minecraft:netherite_pickaxe",
+   "model": null,
+   "name": "Adamant Pickaxe",
+   "name_key": "item.minecraft.netherite_pickaxe"
+  },
+  {
+   "base": "minecraft:stone_hoe",
+   "model": "minecraft:bronze_hoe",
+   "name": "Bronze Hoe",
+   "name_key": "item.kleispack.bronze_hoe"
+  },
+  {
+   "base": "minecraft:copper_chestplate",
+   "model": "minecraft:shakudo_chestplate",
+   "name": "Palatinate Chestplate",
+   "name_key": "item.kleispack.shakudo_chestplate"
+  },
+  {
+   "base": "minecraft:stone_axe",
+   "model": "minecraft:bronze_axe",
+   "name": "Bronze Axe",
+   "name_key": "item.kleispack.bronze_axe"
+  },
+  {
+   "base": "minecraft:netherite_hoe",
+   "model": "minecraft:adamant_mattock",
+   "name": "Adamant Mattock",
+   "name_key": "item.kleispack.adamant_mattock"
+  },
+  {
+   "base": "minecraft:netherite_axe",
+   "model": "minecraft:adamant_dolabra",
+   "name": "Adamant Dolabra",
+   "name_key": "item.kleispack.adamant_dolabra"
+  },
+  {
+   "base": "minecraft:stone_sword",
+   "model": "minecraft:warding_sword",
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:stone_axe",
+   "model": "minecraft:electrum_dolabra",
+   "name": "Electrum Dolabra",
+   "name_key": "item.kleispack.electrum_dolabra"
+  },
+  {
+   "base": "minecraft:stone_hoe",
+   "model": "minecraft:electrum_mattock",
+   "name": "Electrum Mattock",
+   "name_key": "item.kleispack.electrum_mattock"
+  },
+  {
+   "base": "minecraft:iron_boots",
+   "model": "minecraft:steel_boots",
+   "name": "Steel Boots",
+   "name_key": "item.kleispack.steel_boots"
+  },
+  {
+   "base": "minecraft:netherite_sword",
+   "model": "minecraft:adamant_claymore",
+   "name": "Adamant Claymore",
+   "name_key": "item.kleispack.adamant_claymore"
+  },
+  {
+   "base": "minecraft:stone_spear",
+   "model": "minecraft:bronze_spear",
+   "name": "Bronze Spear",
+   "name_key": "item.kleispack.bronze_spear"
+  },
+  {
+   "base": "minecraft:stone_spear",
+   "model": "minecraft:shakudo_spear",
+   "name": "Palatinate Spear",
+   "name_key": "item.kleispack.shakudo_spear"
+  },
+  {
+   "base": "minecraft:stone_sword",
+   "model": "minecraft:butcher_knife",
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:stone_hoe",
+   "model": "minecraft:bronze_mattock",
+   "name": "Bronze Mattock",
+   "name_key": "item.kleispack.bronze_mattock"
+  },
+  {
+   "base": "minecraft:stone_axe",
+   "model": "minecraft:bronze_dolabra",
+   "name": "Bronze Dolabra",
+   "name_key": "item.kleispack.bronze_dolabra"
+  },
+  {
+   "base": "minecraft:stone_pickaxe",
+   "model": "minecraft:steel_pickaxe",
+   "name": "Steel Pickaxe",
+   "name_key": "item.kleispack.steel_pickaxe"
+  },
+  {
+   "base": "minecraft:stone_pickaxe",
+   "model": "minecraft:electrum_pickaxe",
+   "name": "Electrum Pickaxe",
+   "name_key": "item.kleispack.electrum_pickaxe"
+  },
+  {
+   "base": "minecraft:copper_chestplate",
+   "model": "minecraft:bronze_chestplate",
+   "name": "Bronze Chestplate",
+   "name_key": "item.kleispack.bronze_chestplate"
+  },
+  {
+   "base": "minecraft:copper_boots",
+   "model": "minecraft:bronze_boots",
+   "name": "Bronze Boots",
+   "name_key": "item.kleispack.bronze_boots"
+  },
+  {
+   "base": "minecraft:copper_boots",
+   "model": "minecraft:shakudo_boots",
+   "name": "Palatinate Boots",
+   "name_key": "item.kleispack.shakudo_boots"
+  },
+  {
+   "base": "minecraft:stone_spear",
+   "model": "minecraft:steel_spear",
+   "name": "Steel Spear",
+   "name_key": "item.kleispack.steel_spear"
+  },
+  {
+   "base": "minecraft:elytra",
+   "model": "minecraft:bronze_elytra",
+   "name": "Bronze Elytra",
+   "name_key": "item.kleispack.bronze_elytra"
+  },
+  {
+   "base": "minecraft:netherite_sword",
+   "model": null,
+   "name": "Adamant Sword",
+   "name_key": "item.minecraft.netherite_sword"
+  },
+  {
+   "base": "minecraft:stone_pickaxe",
+   "model": "minecraft:bronze_pickaxe",
+   "name": "Bronze Pickaxe",
+   "name_key": "item.kleispack.bronze_pickaxe"
+  },
+  {
+   "base": "minecraft:stone_sword",
+   "model": "minecraft:silver_sword",
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:stone_hoe",
+   "model": "minecraft:steel_mattock",
+   "name": "Steel Mattock",
+   "name_key": "item.kleispack.steel_mattock"
+  },
+  {
+   "base": "minecraft:stone_axe",
+   "model": "minecraft:steel_dolabra",
+   "name": "Steel Dolabra",
+   "name_key": "item.kleispack.steel_dolabra"
+  },
+  {
+   "base": "minecraft:splash_potion",
+   "model": "minecraft:pickled_crimson_fungus",
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:sweet_berry_toast",
+   "name": "Sweet Berry Toast",
+   "name_key": "item.kleispack.sweet_berry_toast"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:bokguk",
+   "name": "Bokguk",
+   "name_key": "item.kleispack.bokguk"
+  },
+  {
+   "base": "minecraft:cooked_chicken",
+   "model": "minecraft:cooked_chicken",
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:honied_french_toast",
+   "name": "Honied French Toast",
+   "name_key": "item.kleispack.honied_french_toast"
+  },
+  {
+   "base": "minecraft:cooked_rabbit",
+   "model": "minecraft:cooked_rabbit",
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:charred_meat",
+   "name": "Charred Meat",
+   "name_key": "item.kleispack.charred_meat"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:apple_empanada",
+   "name": "Apple Empanada",
+   "name_key": "item.kleispack.apple_empanada"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:golden_steamed_carrots",
+   "name": "item.kleispack.golden_steamed_carrots",
+   "name_key": "item.kleispack.golden_steamed_carrots"
+  },
+  {
+   "base": "minecraft:cooked_salmon",
+   "model": "minecraft:cooked_salmon",
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:baked_golden_apple",
+   "name": "Baked Golden Apple",
+   "name_key": "item.kleispack.baked_golden_apple"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:grilled_melon",
+   "name": "Grilled Melon",
+   "name_key": "item.kleispack.grilled_melon"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:brownie",
+   "name": "Brownie",
+   "name_key": "item.kleispack.brownie"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:honey_ginger_tea",
+   "name": "Honey Ginger Tea",
+   "name_key": "item.kleispack.honey_ginger_tea"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:pickled_potatoes",
+   "name": "Pickled Potatoes",
+   "name_key": "item.kleispack.pickled_potatoes"
+  },
+  {
+   "base": "minecraft:cooked_cod",
+   "model": "minecraft:cooked_pufferfish",
+   "name": "Cooked Pufferfish",
+   "name_key": "item.kleispack.fish.cooked_pufferfish"
+  },
+  {
+   "base": "minecraft:cooked_cod",
+   "model": "minecraft:cooked_cod",
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:pickled_mushrooms",
+   "name": "Pickled Mushrooms",
+   "name_key": "item.kleispack.pickled_mushrooms"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:pupusa",
+   "name": "item.kleispack.pupusa",
+   "name_key": "item.kleispack.pupusa"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:red_mushroom_stroganoff",
+   "name": "Toadstool Stroganoff",
+   "name_key": "item.kleispack.red_mushroom_stroganoff"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:fried_egg",
+   "name": "Fried Egg",
+   "name_key": "item.kleispack.fried_egg"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:grilled_tomatoes",
+   "name": "Grilled Tomatoes",
+   "name_key": "item.kleispack.grilled_tomatoes"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:pickled_carrots",
+   "name": "Pickled Carrots",
+   "name_key": "item.kleispack.pickled_carrots"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:braised_crimson_fungus",
+   "name": "Braised Crimson Fungus",
+   "name_key": "item.kleispack.braised_crimson_fungus"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:sweet_berry_danish",
+   "name": "Sweet Berry Danish",
+   "name_key": "item.kleispack.sweet_berry_danish"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:gnocchi",
+   "name": "item.kleispack.gnocchi",
+   "name_key": "item.kleispack.gnocchi"
+  },
+  {
+   "base": "minecraft:cooked_porkchop",
+   "model": "minecraft:cooked_porkchop",
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:warped_stroganoff",
+   "name": "Warped Stroganoff",
+   "name_key": "item.kleispack.warped_stroganoff"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:japanese_curry",
+   "name": "Japanese Curry",
+   "name_key": "item.kleispack.japanese_curry"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:braised_red_mushroom",
+   "name": "Braised Toadstool",
+   "name_key": "item.kleispack.braised_red_mushroom"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:carrot_cupcake",
+   "name": "Carrot Cupcake",
+   "name_key": "item.kleispack.carrot_cupcake"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:braised_warped_fungus",
+   "name": "Braised Warped Fungus",
+   "name_key": "item.kleispack.braised_warped_fungus"
+  },
+  {
+   "base": "minecraft:cooked_mutton",
+   "model": "minecraft:cooked_mutton",
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:canned_golden_apples",
+   "name": "Canned Golden Apples",
+   "name_key": "item.kleispack.canned_golden_apples"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:steamed_carrots",
+   "name": "Steamed Carrots",
+   "name_key": "item.kleispack.steamed_carrots"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:crimson_stroganoff",
+   "name": "Crimson Stroganoff",
+   "name_key": "item.kleispack.crimson_stroganoff"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:charred_potato",
+   "name": "Charred Potato",
+   "name_key": "item.kleispack.charred_potato"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:puerquito",
+   "name": "item.kleispack.puerquito",
+   "name_key": "item.kleispack.puerquito"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:paneer_makhani",
+   "name": "Paneer Makhani",
+   "name_key": "item.kleispack.paneer_makhani"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:golden_pickled_carrots",
+   "name": "Golden Pickled Carrots",
+   "name_key": "item.kleispack.golden_pickled_carrots"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:gimmari",
+   "name": "Gimmari",
+   "name_key": "item.kleispack.gimmari"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:stroganoff",
+   "name": "Stroganoff",
+   "name_key": "item.kleispack.stroganoff"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:charred_fish",
+   "name": "Charred Fish",
+   "name_key": "item.kleispack.charred_fish"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:glow_jam",
+   "name": "Glow Berry Jam",
+   "name_key": "item.kleispack.glow_berry_jam"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:ramen",
+   "name": "Tonkotsu Ramen",
+   "name_key": "item.kleispack.ramen"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:green_curry",
+   "name": "Green Curry",
+   "name_key": "item.kleispack.green_curry"
+  },
+  {
+   "base": "minecraft:cooked_beef",
+   "model": "minecraft:cooked_beef",
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:golden_carrot_cupcake",
+   "name": "Golden Carrot Cupcake",
+   "name_key": "item.kleispack.golden_carrot_cupcake"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:chocolate_chip_cookie",
+   "name": "Chocolate Chip Cookie",
+   "name_key": "item.kleispack.chocolate_chip_cookie"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:chorus_mochi",
+   "name": "Chorus Mochi",
+   "name_key": "item.kleispack.chorus_mochi"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:latke",
+   "name": "Latke",
+   "name_key": "item.kleispack.latke"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:mead",
+   "name": "Mead",
+   "name_key": "item.kleispack.mead"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:melon_sorbet",
+   "name": "Melon Sorbet",
+   "name_key": "item.kleispack.melon_sorbet"
+  },
+  {
+   "base": "minecraft:bread",
+   "model": "minecraft:naan",
+   "name": "Naan",
+   "name_key": "item.kleispack.naan"
+  },
+  {
+   "base": "minecraft:bread",
+   "model": "minecraft:bread",
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:canned_apples",
+   "name": "Canned Apples",
+   "name_key": "item.kleispack.canned_apples"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:rind_jam",
+   "name": "Rind Jam",
+   "name_key": "item.kleispack.rind_jam"
+  },
+  {
+   "base": "minecraft:splash_potion",
+   "model": "minecraft:pickled_red_mushrooms",
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:bruschetta",
+   "name": "Brushcetta",
+   "name_key": "item.kleispack.bruschetta"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:glow_berry_crumble",
+   "name": "Glow Berry Crumble",
+   "name_key": "item.kleispack.glow_berry_crumble"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:sweet_berry_jam",
+   "name": "Sweet Berry Jam",
+   "name_key": "item.kleispack.sweet_berry_jam"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:pickled_tomatoes",
+   "name": "Sundried Tomatotes",
+   "name_key": "item.kleispack.pickled_tomatoes"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:pumpkin_jam",
+   "name": "Pumpkin Jam",
+   "name_key": "item.kleispack.pumpkin_jam"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:french_toast",
+   "name": "French Toast",
+   "name_key": "item.kleispack.french_toast"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:pumpkin_empanada",
+   "name": "Pumpkin Empanada",
+   "name_key": "item.kleispack.pumpkin_empanada"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:pickled_warped_fungus",
+   "name": "Pickled Warped Fungus",
+   "name_key": "item.kleispack.pickled_warped_fungus"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:golden_apple_empanada",
+   "name": "Gilded Empananda",
+   "name_key": "item.kleispack.golden_empanada"
+  },
+  {
+   "base": "minecraft:chainmail_helmet",
+   "model": null,
+   "name": "item.minecraft.chainmail_helmet",
+   "name_key": "item.minecraft.chainmail_helmet"
+  },
+  {
+   "base": "minecraft:leather_chestplate",
+   "model": null,
+   "name": "Leather Pauldron",
+   "name_key": "item.minecraft.leather_chestplate"
+  },
+  {
+   "base": "minecraft:chicken_spawn_egg",
+   "model": "minecraft:bedrock_buster",
+   "name": "Bedrock Buster",
+   "name_key": "item.kleispack.bedrock_buster"
+  },
+  {
+   "base": "minecraft:leather_boots",
+   "model": "minecraft:sturdy_leather_boots",
+   "name": "Sturdy Leather Boots",
+   "name_key": "item.kleispack.sturdy_leather_boots"
+  },
+  {
+   "base": "minecraft:item_frame",
+   "model": "invisible_item_frame",
+   "name": "Invisible Item Frame",
+   "name_key": "item.kleispack.invisible_item_frame"
+  },
+  {
+   "base": "minecraft:leather_helmet",
+   "model": null,
+   "name": "Leather Hood",
+   "name_key": "item.minecraft.leather_helmet"
+  },
+  {
+   "base": "minecraft:leather_leggings",
+   "model": "minecraft:sturdy_leather_leggings",
+   "name": "Sturdy Leather Leggings",
+   "name_key": "item.kleispack.sturdy_leather_leggings"
+  },
+  {
+   "base": "minecraft:copper_sword",
+   "model": "minecraft:copper_sword",
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:golden_boots",
+   "model": null,
+   "name": "item.minecraft.golden_boots",
+   "name_key": "item.minecraft.golden_boots"
+  },
+  {
+   "base": "minecraft:golden_leggings",
+   "model": null,
+   "name": "item.minecraft.golden_leggings",
+   "name_key": "item.minecraft.golden_leggings"
+  },
+  {
+   "base": "minecraft:copper_hoe",
+   "model": "copper_hoe",
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:leather_helmet",
+   "model": "minecraft:sturdy_leather_helmet",
+   "name": "Sturdy Leather Helmet",
+   "name_key": "item.kleispack.sturdy_leather_helmet"
+  },
+  {
+   "base": "minecraft:rabbit_stew",
+   "model": null,
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:golden_spear",
+   "model": null,
+   "name": "item.minecraft.golden_spear",
+   "name_key": "item.minecraft.golden_spear"
+  },
+  {
+   "base": "minecraft:copper_axe",
+   "model": "minecraft:copper_axe",
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:flint_and_steel",
+   "model": "minecraft:tinder",
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:leather_chestplate",
+   "model": "minecraft:sturdy_leather_chestplate",
+   "name": "Sturdy Leather Gambeson",
+   "name_key": "item.kleispack.sturdy_leather_chestplate"
+  },
+  {
+   "base": "minecraft:chainmail_boots",
+   "model": null,
+   "name": "item.minecraft.chainmail_boots",
+   "name_key": "item.minecraft.chainmail_boots"
+  },
+  {
+   "base": "minecraft:rabbit_stew",
+   "model": null,
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:iron_shovel",
+   "model": "minecraft:snow_shovel",
+   "name": "Snow Shovel",
+   "name_key": "item.kleispack.snow_shovel"
+  },
+  {
+   "base": "minecraft:wooden_pickaxe",
+   "model": null,
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:rabbit_stew",
+   "model": null,
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:rabbit_stew",
+   "model": null,
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:golden_pickaxe",
+   "model": null,
+   "name": "item.minecraft.golden_pickaxe",
+   "name_key": "item.minecraft.golden_pickaxe"
+  },
+  {
+   "base": "minecraft:golden_helmet",
+   "model": null,
+   "name": "Golden Crown",
+   "name_key": "item.minecraft.golden_helmet"
+  },
+  {
+   "base": "minecraft:diamond_hoe",
+   "model": "minecraft:diamond_mattock",
+   "name": "Diamond Mattock",
+   "name_key": "item.kleispack.diamond_mattock"
+  },
+  {
+   "base": "minecraft:diamond_axe",
+   "model": "minecraft:diamond_dolabra",
+   "name": "Diamond Dolabra",
+   "name_key": "item.kleispack.diamond_dolabra"
+  },
+  {
+   "base": "minecraft:compass",
+   "model": "minecraft:golden_compass",
+   "name": "Golden Compass",
+   "name_key": "item.kleispack.golden_compass"
+  },
+  {
+   "base": "minecraft:chainmail_chestplate",
+   "model": null,
+   "name": "item.minecraft.chainmail_chestplate",
+   "name_key": "item.minecraft.chainmail_chestplate"
+  },
+  {
+   "base": "minecraft:golden_sword",
+   "model": null,
+   "name": "item.minecraft.golden_sword",
+   "name_key": "item.minecraft.golden_sword"
+  },
+  {
+   "base": "minecraft:golden_chestplate",
+   "model": null,
+   "name": "item.minecraft.golden_chestplate",
+   "name_key": "item.minecraft.golden_chestplate"
+  },
+  {
+   "base": "minecraft:chicken_spawn_egg",
+   "model": "minecraft:warding_stone",
+   "name": "Warding Stone",
+   "name_key": "item.kleispack.warding_stone"
+  },
+  {
+   "base": "minecraft:copper_shovel",
+   "model": "minecraft:copper_shovel",
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:chainmail_leggings",
+   "model": null,
+   "name": "item.minecraft.chainmail_leggings",
+   "name_key": "item.minecraft.chainmail_leggings"
+  },
+  {
+   "base": "minecraft:leather_leggings",
+   "model": null,
+   "name": "item.minecraft.leather_leggings",
+   "name_key": "item.minecraft.leather_leggings"
+  },
+  {
+   "base": "minecraft:rabbit_stew",
+   "model": null,
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:baked_potato",
+   "model": null,
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:wooden_cross",
+   "name": "Wooden Cross",
+   "name_key": "item.kleispack.wooden_cross"
+  },
+  {
+   "base": "minecraft:copper_pickaxe",
+   "model": "minecraft:copper_pickaxe",
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:pumpkin_pie",
+   "model": null,
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:compass",
+   "model": "minecraft:copper_compass",
+   "name": "Copper Compass",
+   "name_key": "item.kleispack.copper_compass"
+  },
+  {
+   "base": "minecraft:leather_boots",
+   "model": null,
+   "name": "item.minecraft.leather_boots",
+   "name_key": "item.minecraft.leather_boots"
+  },
+  {
+   "base": "minecraft:shears",
+   "model": "minecraft:copper_shears",
+   "name": "Copper Shears",
+   "name_key": "item.kleispack.copper_shears"
+  },
+  {
+   "base": "minecraft:poisonous_potato",
+   "model": "minecraft:heart_container",
+   "name": "Crystal Heart",
+   "name_key": "item.kleispack.crystal_heart"
+  },
+  {
+   "base": "minecraft:copper_axe",
+   "model": "minecraft:copper_dolabra",
+   "name": "Copper Dolabra",
+   "name_key": "item.kleispack.copper_dolabra"
+  },
+  {
+   "base": "minecraft:copper_hoe",
+   "model": "minecraft:copper_mattock",
+   "name": "Copper Mattock",
+   "name_key": "item.kleispack.copper_mattock"
+  },
+  {
+   "base": "minecraft:golden_hoe",
+   "model": null,
+   "name": "item.minecraft.golden_hoe",
+   "name_key": "item.minecraft.golden_hoe"
+  },
+  {
+   "base": "minecraft:iron_axe",
+   "model": "minecraft:iron_dolabra",
+   "name": "Iron Dolabra",
+   "name_key": "item.kleispack.iron_dolabra"
+  },
+  {
+   "base": "minecraft:iron_hoe",
+   "model": "minecraft:iron_mattock",
+   "name": "Iron Mattock",
+   "name_key": "item.kleispack.iron_mattock"
+  },
+  {
+   "base": "minecraft:golden_shovel",
+   "model": null,
+   "name": "item.minecraft.golden_shovel",
+   "name_key": "item.minecraft.golden_shovel"
+  },
+  {
+   "base": "minecraft:music_disc_11",
+   "model": "minecraft:music_disc_golden",
+   "name": null,
+   "name_key": null
+  },
+  {
+   "base": "minecraft:golden_axe",
+   "model": null,
+   "name": "item.minecraft.golden_axe",
+   "name_key": "item.minecraft.golden_axe"
+  }
+ ]
+}
