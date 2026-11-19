@@ -2,7 +2,7 @@
 
 A small **client-side** Fabric mod that makes [Just Enough Items (JEI)](https://modrinth.com/mod/jei) display the items and recipes added by the [Matcha Flavoured](https://modrinth.com/datapack/matcha-flavoured) datapack.
 
-> **Fork note:** this is a fork of [KixPanganiban/matcha-flavoured-jei-compat](https://github.com/KixPanganiban/matcha-flavoured-jei-compat), updated for **Minecraft 26.3**. The 26.2 build (1.0.0) is in the upstream repo's releases.
+> **Fork note:** this is a fork of [KixPanganiban/matcha-flavoured-jei-compat](https://github.com/KixPanganiban/matcha-flavoured-jei-compat), updated so one jar runs on **every Minecraft 26.1–26.3 release**.
 
 ## The problem
 
@@ -19,10 +19,10 @@ The variant list is data-driven — see `src/main/resources/reskins.json` — an
 
 ## Requirements
 
-- Minecraft **26.3**
-- Fabric Loader **≥ 0.20.1**
+- Minecraft **26.1, 26.1.1, 26.1.2, 26.2 or 26.3** (one jar for all of them)
+- Fabric Loader **≥ 0.18.4**
 - Fabric API
-- Just Enough Items (JEI) **31.18.x**
+- Just Enough Items (JEI) for your Minecraft version (29.2 or newer)
 - The **Matcha Flavoured** datapack **and** resource pack (this mod does not include them — grab them from [Modrinth](https://modrinth.com/datapack/matcha-flavoured))
 
 Client-side only — it does nothing on a dedicated server and isn't required there.
@@ -38,16 +38,17 @@ This mod only teaches JEI how to *display* the pack; it can't show recipes that 
 
 ## Install
 
-Download `matcha-flavoured-jei-compat-1.1.0.jar` from [Releases](https://github.com/Aischii/matcha-flavoured-jei-compat/releases/latest) and drop it into your `mods/` folder alongside Fabric API and JEI.
+Download `matcha-flavoured-jei-compat-1.1.1.jar` from [Releases](https://github.com/Aischii/matcha-flavoured-jei-compat/releases/latest) and drop it into your `mods/` folder alongside Fabric API and JEI.
 
 | Mod version | Minecraft | JEI | Where |
 |---|---|---|---|
-| 1.1.0 | 26.3 | 31.18.x | [this fork](https://github.com/Aischii/matcha-flavoured-jei-compat/releases/tag/v1.1.0) |
+| 1.1.1 | 26.1 – 26.3 | any build for that version (≥ 29.2) | [this fork](https://github.com/Aischii/matcha-flavoured-jei-compat/releases/tag/v1.1.1) |
+| 1.1.0 | 26.3 | 31.18 or newer only (too strict, use 1.1.1) | [this fork](https://github.com/Aischii/matcha-flavoured-jei-compat/releases/tag/v1.1.0) |
 | 1.0.0 | 26.2 | 30.14.x | [upstream](https://github.com/KixPanganiban/matcha-flavoured-jei-compat/releases/tag/v1.0.0) |
 
 ## Build
 
-Requires **JDK 25** (Minecraft 26.3 targets Java 25).
+Requires **JDK 25** (all Minecraft 26.x versions target Java 25).
 
 ```sh
 ./gradlew build
@@ -56,6 +57,8 @@ Requires **JDK 25** (Minecraft 26.3 targets Java 25).
 The jar is written to `build/libs/`.
 
 > Note: Minecraft 26.x ships an already-deobfuscated client jar, so no Yarn/Mojang mappings are configured. The build uses Fabric Loom `1.19.x` (Gradle 9.9) with plain `implementation`/`compileOnly` dependencies. JEI plugins are discovered via the `jei_mod_plugin` entrypoint in `fabric.mod.json`.
+
+The build compiles against 26.3, but the compiled class makes exactly the same Minecraft and JEI calls when built against 26.1, 26.1.2, 26.2 or 26.3. That's why one jar covers the whole range. Before widening `minecraft` in `fabric.mod.json` for a new release, build against that version and compare the method and field references (`javap -v`).
 
 ## Regenerating reskins.json
 
