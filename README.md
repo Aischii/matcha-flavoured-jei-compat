@@ -2,6 +2,8 @@
 
 A small **client-side** Fabric mod that makes [Just Enough Items (JEI)](https://modrinth.com/mod/jei) display the items and recipes added by the [Matcha Flavoured](https://modrinth.com/datapack/matcha-flavoured) datapack.
 
+> **Fork note:** this is a fork of [KixPanganiban/matcha-flavoured-jei-compat](https://github.com/KixPanganiban/matcha-flavoured-jei-compat), updated for **Minecraft 26.3**. The 26.2 build (1.0.0) is in the upstream repo's releases.
+
 ## The problem
 
 Matcha Flavoured is a datapack, so it can't register brand-new items. Instead it reskins vanilla items using the `minecraft:item_model` and `minecraft:item_name` data components — a "Bronze Pickaxe" is really a `minecraft:stone_pickaxe` wearing a custom model and name.
@@ -36,7 +38,12 @@ This mod only teaches JEI how to *display* the pack; it can't show recipes that 
 
 ## Install
 
-Drop the jar into your `mods/` folder alongside Fabric API and JEI.
+Download `matcha-flavoured-jei-compat-1.1.0.jar` from [Releases](https://github.com/Aischii/matcha-flavoured-jei-compat/releases/latest) and drop it into your `mods/` folder alongside Fabric API and JEI.
+
+| Mod version | Minecraft | JEI | Where |
+|---|---|---|---|
+| 1.1.0 | 26.3 | 31.18.x | [this fork](https://github.com/Aischii/matcha-flavoured-jei-compat/releases/tag/v1.1.0) |
+| 1.0.0 | 26.2 | 30.14.x | [upstream](https://github.com/KixPanganiban/matcha-flavoured-jei-compat/releases/tag/v1.0.0) |
 
 ## Build
 
