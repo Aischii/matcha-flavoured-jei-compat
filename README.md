@@ -17,10 +17,10 @@ The variant list is data-driven — see `src/main/resources/reskins.json` — an
 
 ## Requirements
 
-- Minecraft **26.2**
-- Fabric Loader **≥ 0.19.3**
+- Minecraft **26.3**
+- Fabric Loader **≥ 0.20.1**
 - Fabric API
-- Just Enough Items (JEI) **30.14.x**
+- Just Enough Items (JEI) **31.18.x**
 - The **Matcha Flavoured** datapack **and** resource pack (this mod does not include them — grab them from [Modrinth](https://modrinth.com/datapack/matcha-flavoured))
 
 Client-side only — it does nothing on a dedicated server and isn't required there.
@@ -40,7 +40,7 @@ Drop the jar into your `mods/` folder alongside Fabric API and JEI.
 
 ## Build
 
-Requires **JDK 25** (Minecraft 26.2 targets Java 25).
+Requires **JDK 25** (Minecraft 26.3 targets Java 25).
 
 ```sh
 ./gradlew build
@@ -48,7 +48,7 @@ Requires **JDK 25** (Minecraft 26.2 targets Java 25).
 
 The jar is written to `build/libs/`.
 
-> Note: Minecraft 26.x ships an already-deobfuscated client jar, so no Yarn/Mojang mappings are configured. The build uses Fabric Loom `1.17.x` with plain `implementation`/`compileOnly` dependencies. JEI plugins are discovered via the `jei_mod_plugin` entrypoint in `fabric.mod.json`.
+> Note: Minecraft 26.x ships an already-deobfuscated client jar, so no Yarn/Mojang mappings are configured. The build uses Fabric Loom `1.19.x` (Gradle 9.9) with plain `implementation`/`compileOnly` dependencies. JEI plugins are discovered via the `jei_mod_plugin` entrypoint in `fabric.mod.json`.
 
 ## Regenerating reskins.json
 
